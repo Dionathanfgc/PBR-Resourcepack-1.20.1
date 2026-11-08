@@ -1,0 +1,9 @@
+{
+    "ctm": {
+        "ctm_version": 1,
+        "type": "pillar",
+        "textures": [
+            "chisel_chipped_integration:block/ctm/factory_vents_ctmv"
+        ]
+    }
+}

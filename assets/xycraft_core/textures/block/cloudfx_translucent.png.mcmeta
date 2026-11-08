@@ -1,0 +1,6 @@
+{
+  "forge": {
+    "loader": "xycraft_core:fxsprite"
+  },
+  "animation": {}
+}

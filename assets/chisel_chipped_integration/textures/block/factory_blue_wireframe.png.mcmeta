@@ -1,0 +1,9 @@
+{
+    "ctm": {
+        "ctm_version": 1,
+        "type": "ctm",
+        "textures": [
+            "chisel_chipped_integration:block/ctm/factory_blue_wireframe_ctm"
+        ]
+    }
+}

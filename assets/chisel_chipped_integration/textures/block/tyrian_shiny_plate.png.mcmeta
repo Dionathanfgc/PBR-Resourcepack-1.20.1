@@ -1,0 +1,9 @@
+{
+    "ctm": {
+        "ctm_version": 1,
+        "type": "ctm",
+        "textures": [
+            "chisel_chipped_integration:block/ctm/tyrian_shiny_plate_ctm"
+        ]
+    }
+}
